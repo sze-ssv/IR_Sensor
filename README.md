@@ -42,8 +42,7 @@ You can also train the model in an equivalent local environment.
     
     ![alt-text][Output_data]
 
-    [Output_data]: https://github.com/SSV-embedded/TinyML_IR-Sensor/blob/d2691e7bbba615b89f12176a07e70cc2fe7cc7a3/Output_data.png
-
+    [Output_data]: https://github.com/sze-ssv/IR_Sensor/blob/bccbaa086e1f381741693185f31c0794a6393c5e/Output_data.png
 
 2) Get to know the data 
 
@@ -54,5 +53,5 @@ You can also train the model in an equivalent local environment.
     
     ![alt-text][Bild]
     
-    [Bild]: https://github.com/SSV-embedded/TinyML_IR-Sensor/blob/2cf61b172882a23991e954e01e803f0b2f337289/Bild_Github.png
+    [Bild]: https://github.com/sze-ssv/IR_Sensor/blob/bccbaa086e1f381741693185f31c0794a6393c5e/Bild_Github.png
  
